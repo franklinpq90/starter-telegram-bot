@@ -168,7 +168,8 @@ bot.api.setMyCommands([
 
 // Handle all other messages and the /start command
 const introductionMessage = `Hola, soy el bot del Norte.
-He sido desarrollado por Franklin para gestionar e identificar a los vecinos de la Urbanización Portón del Norte que activen nuestra Alarma comunitaria.
+He sido desarrollado por Franklin para gestionar e identificar a los vecinos de la Urbanización 
+Portón del Norte que activen nuestra Alarma comunitaria.
 
 <b>Commands</b>
 /yo - Be greeted by me
