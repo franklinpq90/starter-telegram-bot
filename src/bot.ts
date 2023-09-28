@@ -167,8 +167,8 @@ bot.api.setMyCommands([
 ]);
 
 // Handle all other messages and the /start command
-const introductionMessage = `Hello! I'm a Telegram bot.
-I'm powered by Cyclic, the next-generation serverless computing platform.
+const introductionMessage = `Hola, soy el bot del Norte.
+He sido desarrollado por Franklin para gestionar e identificar a los vecinos de la Urbanización Portón del Norte que activen nuestra Alarma comunitaria.
 
 <b>Commands</b>
 /yo - Be greeted by me
